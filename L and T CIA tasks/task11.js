@@ -10,3 +10,6 @@ function getPatientCategory(name, age) {
 
 console.log(getPatientCategory("Sameer Khan", 15));
 console.log(getPatientCategory("Rahul Verma", 24));
+
+//Output: Sameer Khan is a minor ( Age: 15)
+  //Rahul Verma is an adult ( Age:24 )
