@@ -10,3 +10,4 @@ function getPatientCategory(name, age) {
 
 console.log(getPatientCategory("Sameer Khan", 15));
 console.log(getPatientCategory("Rahul Verma", 24));
+\
