@@ -10,3 +10,9 @@ console.log("Total Patients (before update):", totalPatients);
 totalPatients = totalPatients + 3;
 
 console.log("Total Patients (after update):", totalPatients);
+
+/* OUTPUT:
+System Name: Hospital Patient System
+Total Patients (before update): 50
+Total Patients (after update): 53
+*/
