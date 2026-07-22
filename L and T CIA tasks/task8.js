@@ -22,3 +22,14 @@ for (let i = 1; i < patients.length; i++) {
 }
 
 console.log(`\nOldest Patient: ${oldestPatient.name} (Age: ${oldestPatient.age})`);
+
+/* OUTPUT:
+Updated Patient List:
+1: Rahul Verma (Age: 24)
+2: Anita Sharma (Age: 67)
+3: Sameer Khan (Age: 15)
+4: Priya Nair (Age: 45)
+5: Kavya Reddy (Age: 52)
+
+Oldest Patient: Anita Sharma (Age: 67)
+*/
