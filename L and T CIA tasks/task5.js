@@ -9,3 +9,7 @@ if (patientAge >= 60) {
 } else {
   console.log(`Patient is a minor (Age: ${patientAge}). Guardian consent required.`);
 }
+
+/* OUTPUT:
+Patient is a senior citizen (Age: 67). Priority care applies.
+*/
