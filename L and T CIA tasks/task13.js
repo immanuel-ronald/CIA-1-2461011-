@@ -21,3 +21,14 @@ let summary = `
 `;
 
 console.log(summary);
+/* OUTPUT:
+--------------------------------------
+ Patient Summary
+--------------------------------------
+ ID       : 101
+ Name     : Anita Sharma
+ Age      : 67 years
+ Ailment  : Diabetes
+ Ward     : General Ward - B
+--------------------------------------
+*/
