@@ -12,3 +12,9 @@ for (let i = 0; i < patients.length; i++) {
     `Patient ${patients[i].id}: ${patients[i].name}, Age: ${patients[i].age}, Ailment: ${patients[i].ailment}`
   );
 }
+/* OUTPUT:
+Patient 1: Rahul Verma, Age: 24, Ailment: Fever
+Patient 2: Anita Sharma, Age: 67, Ailment: Diabetes
+Patient 3: Sameer Khan, Age: 15, Ailment: Fracture
+Patient 4: Priya Nair, Age: 45, Ailment: Migraine
+*/
