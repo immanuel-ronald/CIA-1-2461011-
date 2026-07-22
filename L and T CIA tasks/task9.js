@@ -16,3 +16,12 @@ patients.sort((a, b) => a.age - b.age);
 
 console.log("\nPatients sorted by age:");
 patients.forEach((p) => console.log(`${p.name} - Age: ${p.age}`));
+
+/* OUTPUT:
+Removed Patient: Priya Nair
+
+Patients sorted by age:
+Sameer Khan - Age: 15
+Rahul Verma - Age: 24
+Anita Sharma - Age: 67
+*/
